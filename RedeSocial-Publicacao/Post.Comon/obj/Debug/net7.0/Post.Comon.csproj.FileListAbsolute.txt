@@ -1,0 +1,15 @@
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\bin\Debug\net7.0\Post.Comon.deps.json
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\bin\Debug\net7.0\Post.Comon.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\bin\Debug\net7.0\Post.Comon.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\bin\Debug\net7.0\CQRS.Core.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\bin\Debug\net7.0\CQRS.Core.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.csproj.AssemblyReference.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.GeneratedMSBuildEditorConfig.editorconfig
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.AssemblyInfoInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.AssemblyInfo.cs
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.csproj.CoreCompileInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.csproj.CopyComplete
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\refint\Post.Comon.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\Post.Comon.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Comon\obj\Debug\net7.0\ref\Post.Comon.dll

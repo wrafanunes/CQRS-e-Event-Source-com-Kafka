@@ -1,0 +1,12 @@
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.deps.json
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.AssemblyReference.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfoInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfo.cs
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.CoreCompileInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\refint\CQRS.Core.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\CQRS-ES\CQRS.Core\obj\Debug\net7.0\ref\CQRS.Core.dll

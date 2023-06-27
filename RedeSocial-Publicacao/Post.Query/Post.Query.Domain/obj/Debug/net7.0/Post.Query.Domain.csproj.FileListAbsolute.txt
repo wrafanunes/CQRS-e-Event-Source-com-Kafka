@@ -1,0 +1,17 @@
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.deps.json
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\CQRS.Core.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Comon.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\CQRS.Core.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Comon.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.AssemblyReference.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfoInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfo.cs
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.CopyComplete
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\refint\Post.Query.Domain.dll
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.pdb
+R:\wrsnu\workspace\microsserviços - CQRS e Event Source com Kafka\RedeSocial-Publicacao\Post.Query\Post.Query.Domain\obj\Debug\net7.0\ref\Post.Query.Domain.dll
